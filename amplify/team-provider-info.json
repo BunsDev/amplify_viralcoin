@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-viralcoindotcom-dev-111103-authRole",
+      "UnauthRoleArn": "arn:aws:iam::150812754888:role/amplify-viralcoindotcom-dev-111103-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::150812754888:role/amplify-viralcoindotcom-dev-111103-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-viralcoindotcom-dev-111103-deployment",
+      "UnauthRoleName": "amplify-viralcoindotcom-dev-111103-unauthRole",
+      "StackName": "amplify-viralcoindotcom-dev-111103",
+      "StackId": "arn:aws:cloudformation:us-east-1:150812754888:stack/amplify-viralcoindotcom-dev-111103/dbb24a40-25f6-11ec-9555-124b8f7e7c13",
+      "AmplifyAppId": "d28cxxbrtqplit"
+    }
+  }
+}
